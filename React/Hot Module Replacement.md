@@ -1,0 +1,1 @@
+Hot Module Replacement (HMR): A feature to inject updated modules into the active runtime without a full refresh.

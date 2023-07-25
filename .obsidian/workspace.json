@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "3cec653ee187da13",
+    "type": "split",
+    "children": [
+      {
+        "id": "a633f79ee507ab0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ed1071543dba15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/JSX Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0559cb679f532c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "47fb9c93fb069447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6d118ee66f39d7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79196b72e82552bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "809d52ffc9042e66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "743592b2097dc201",
+    "type": "split",
+    "children": [
+      {
+        "id": "693444ebf20fc6d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f9c5acef8e6be58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/JSX Components.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "effb8e94811c4599",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React/JSX Components.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32728cac8a78ff31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09dbd15b3c2a8163",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React/JSX Components.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "e6d118ee66f39d7f",
+  "lastOpenFiles": [
+    "React/Preventing Component from Rendering.md",
+    "React/Thunk.md",
+    "React/useCallback.md",
+    "React/Bypass Blocks.md",
+    "React/Functional Components.md",
+    "React/Isolating Component Rendering.md",
+    "React/Synthetic Events.md",
+    "React/Tailwind CSS with React.md",
+    "React/React StartTransition.md",
+    "React/React.createRef.md",
+    "React/useMemo.md",
+    "Preventing Component from Rendering.md",
+    "React/CSS Prop.md",
+    "React/DefaultProps.md",
+    "React/React Native.md",
+    "React/React Use Gesture.md",
+    "React/React.StrictMode.md",
+    "React/componentWillUnmount.md",
+    "React/Error Identification.md",
+    "React/Nested context.md",
+    "React/Proper Tag Use.md",
+    "React/React Helmet.md",
+    "React/Grommet.md",
+    "React/Profiling in DevTools.md",
+    "React/withFormik.md",
+    "React/React.memo.md",
+    "Javascript",
+    "React"
+  ]
+}
